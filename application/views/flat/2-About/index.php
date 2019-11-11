@@ -1,0 +1,16 @@
+<div class="container main">
+    <div class="row">
+        <div class="col-md-offset-1 col-md-9">
+            <h1>About</h1>
+            <p>Bangalore Venkata Raman (8 August 1912 – 20 December 1998) was one of the most important astrologers in modern India and an author of numerous books and articles. He was instrumental in making Vedic or Hindu astrology known and respected throughout India and the world. With the help of his sons Niranjan Babu and Sachidananda Babu, he also started the Raman &amp; Rajeswari Research Foundation to promote the knowledge of Astrology and Vastu Shastra</p>
+			<p>Raman restarted The Astrological Magazine in 1936, which was earlier run by his grandfather, and remained its editor for over 62 years. After his death, the magazine was run until December 2007 by his son, Niranjan Babu Bangalore, and his daughter, Gayatri Devi Vasudev, when it was shut down citing no reason. It is now relaunched as The Astrological eMagazine by his son Niranjan Babu.</p>
+			<p>He represented India at the Astrological Congress held at Cambridge, England, and the International Astrology Conference at New York. Travelling around the world, he delivered innumerable lectures in Germany, England, France, Italy, Austria, Holland, Canada, Japan, and the United States of America, addressing universities, medical associations, and educational and cultural institutions on different aspects of astrology, Hindu astronomy, philosophy, and Indian culture.</p>
+			<p>In 1968, the Akhila Bharateeya Samskrita Sammelana awarded him the Doctor of Literature degree, and in June 1976 the Kumaon University (U.P.) awarded him the honorary Doctor of Letters degree</p>
+			<p>Raman was the first to deliver a lecture, Relevance of Astrology in Modern Times, in 1970 at the United Nations, New York, which evoked much interest in diplomatic circles. He asserted that astrology was a science.</p>
+			<p>Raman founded the Indian Council Of Astrological Sciences in 1984 to regulate the study and practice of astrology in the country with chapters in Bangalore, Madras, Delhi, Kanpur, Trivandrum, Patna, and other cities.</p>
+			<p>In October 1992, Raman, on a visit to the United States of America to deliver the keynote address at the First International Symposium on Vedic Astrology, held at Dominican College in San Rafael, California, mooted the idea of a national body to organise the study of Indian astrology in the States. The American Council of Vedic Astrology was founded under Raman's guidance by a group of Americans to help popularize the study of Indian astrology in USA. David Frawley, the president of the council from 1993-2003, mentions Raman for his inspiration and guidance.[5] Raman was also a patron founder of the British Association of Vedic Astrology in 1998 and the Academia Brasileira de Astrologia Védica in 2016, which translated several books and softwares to portuguese helping to popularize the Vedic Astrology in Brazil.</p>
+			<p>Mr. K. V. Mallikarjuna Rao, an eminent astrologer from Hyderabad, has translated many of Raman's books into Telugu.</p>
+			<p>His legacy is continued by his grandson, Raman Suprajarama, who is the senior editor of The Astrological eMagazine.</p>
+        </div>
+    </div>
+</div>

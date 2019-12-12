@@ -1,16 +1,12 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <div class="container-fluid" id="home">
     <div class="row first-row">
-        <div class="col-md-12 clear-paddings">
-            <div class="fixOverlayDiv">
-                <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
-<!--                 <div class="OverlayTextMain">
-                    <div class="mainpage">
-						<h1>The Raza Foundation</h1>
-						<p>Raza Foundation is an arts and culture organization under the guidance of Mr. S. H. Raza who sets an example where fame and glory are not lonesome attainments but things to be liberally shared with the broader creative community. The Foundation has been instrumental in creating spaces for various art and culture programs, publications and fellowships to the younger talent and also carrying a deeper research into the work of the masters.</p>
-                    </div>
-                </div> -->
-            </div>
+        <div class="col-md-8 clear-paddings">
+			<p style="font-size: 2em;font-weight: 100;text-align: center; margin-top: 5em;">Rare Manuscripts of</h2>
+			<p style="font-size: 5em;font-weight: 900;text-align: center;"><strong>B V Raman</strong></h1>
+        </div>
+        <div class="col-md-4 clear-paddings">
+			<img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
         </div>
     </div>
 </div>
@@ -30,7 +26,7 @@
             <h1>DR. B V Raman Rare Manuscripts</h1>
             <ul class="list-inline">
                 <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/Categories/Book?select=Category">
+                    <a href="<?=BASE_URL?>listing/artefacts/Book?Category=General">
                         <h2><i class="fa fa-book"></i></h2>
                         <p>Books</p>
                     </a>

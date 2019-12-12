@@ -1,10 +1,7 @@
-<div class="container-fluid gap-above-large">
+<div class="container-fluid">
     <div class="row first-row">
         <!-- Column 1 -->
         <div class="col-md-12 text-center">
-            <ul class="list-inline sub-nav">
-                <li><a href="<?=BASE_URL?>listing/Categories/Book?select=Category">Books</a></li>
-            </ul>
         </div>
     </div>
 </div>

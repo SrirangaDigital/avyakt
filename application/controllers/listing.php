@@ -29,6 +29,9 @@ class listing extends Controller {
 
 	public function artefacts($query = [], $type = DEFAULT_TYPE) {
 
+		if(!isset($_SESSION['login']))
+			$this->redirect("user/login");
+			
 		$query = $this->model->preProcessURLQuery($query);
 
 		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);

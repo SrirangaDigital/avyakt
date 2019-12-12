@@ -9,6 +9,9 @@ class describe extends Controller {
 
 	public function artefact($query = [], $id = '') {
 
+		if(!isset($_SESSION['login']))
+			$this->redirect("user/login");
+
 		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);
 		$artefact['details'] = $this->model->getArtefactDetails($id);
 

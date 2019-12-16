@@ -19,8 +19,8 @@
                     </p>
                 </div>
                 <div class="form-group">
-                    <label for="lemail">Email address*</label>
-                    <input type="email" class="form-control" id="lemail" name="lemail" placeholder="Enter email" required>
+                    <label for="lemail">Username*</label>
+                    <input type="input" class="form-control" id="lemail" name="lemail" placeholder="Enter username" required>
                 </div>
                 <div class="form-group">
                     <label for="lpassword">Password*</label>

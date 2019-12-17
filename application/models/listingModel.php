@@ -87,6 +87,7 @@ class listingModel extends Model {
 
 		// Form Projection array
 		$projectArray['Type'] = 1;
+		$projectArray['Title'] = 1;
 		foreach ($sortKeys as $key => $value) {
 			
 			if(!isset($firstKey)) $firstKey = $key;

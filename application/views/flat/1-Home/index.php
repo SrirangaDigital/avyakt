@@ -26,7 +26,7 @@
             <h1>DR. B V Raman Rare Manuscripts</h1>
             <ul class="list-inline">
                 <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/artefacts/Book?Category=General">
+                    <a href="<?=BASE_URL?>listing/Categories/Book?select=Category">
                         <h2><i class="fa fa-book"></i></h2>
                         <p>Books</p>
                     </a>

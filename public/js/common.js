@@ -222,6 +222,7 @@ function buildMasonryFromJson(json){
             displayString += '<img class="img-responsive" src="' +  obj[i].thumbnailPath + '">';
             displayString += '</a>';
             displayString += '<p class="image-desc">' + obj[i].cardName + '</p>';
+            displayString += '<p class="image-desc">' + obj[i].Title + '</p>';
             displayString += '</div>';
         }
     }

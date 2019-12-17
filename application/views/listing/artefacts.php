@@ -1,4 +1,5 @@
 <?php
+//var_dump($data);exit(0);
     $auxiliary = array_pop($data);
     $parentType = $data[0]['Type'];
     $filter = $auxiliary['filter'];
@@ -40,6 +41,7 @@ $(document).ready(function(){
             <a href="<?=BASE_URL?>describe/artefact/<?=$row['idURL']?>?<?=$auxiliary['filterString']?>" title="View Details" target="_blank">
                 <img src="<?=$row['thumbnailPath']?>">
                 <p class="image-desc"><?=$row['cardName']?></p>
+                <p class="image-desc"><?=$row['Title']?></p>
             </a>
         </div>
 <?php } ?>
